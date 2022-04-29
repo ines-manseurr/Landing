@@ -16,7 +16,7 @@ h1, h2, h3 {
 }
 
 .banner {
-  background-image: url('images/background.jpg');
+  background-image: url("https://github.com/ines-manseurr/Landing/blob/main/images/background.jpg?raw=true");
   background-size: cover;
   background-position: center;
   padding: 150px 0;
